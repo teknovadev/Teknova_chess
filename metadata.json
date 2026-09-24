@@ -1,0 +1,6 @@
+{
+  "name": "TekNova Chess",
+  "description": "Play TekNova Chess by TekNova - a fully playable 3D chess game with realistic pieces, AI difficulty levels, smooth animations, and tactical futuristic visual design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
